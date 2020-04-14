@@ -1,0 +1,27 @@
+#shape {
+    background:rgb(86,0,55);
+    height:220px;
+    width:100px;
+    position:absolute;
+}
+
+#circle {
+    background-color:rgb(207,105,108);
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    position:relative; 
+}
+
+#dropdown {
+    padding: 50px;
+    display: none;
+}
+
+#dropdown, #toggle {
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(172,106,118);
+    border: solid 1px rgb(172,106,118);
+}
+
