@@ -37,7 +37,6 @@ const app = {
 
     writing: function() {
         var woo = $('#appended').val();
-        alert('you have put in' + woo);
         $('ul').append('<li>' + woo + '</li>');
       }
 
